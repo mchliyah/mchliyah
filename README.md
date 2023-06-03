@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mchliyah" alt="mchliyah's 42 stats" /></a>
+<a href="https://profile.intra.42.fr/users/mchliyah"><img src="https://badge.mediaplus.ma/greenbinary/mchliyah" alt="mchliyah's 42 stats" /></a>
 </div>
 <br/>
 <br/>
