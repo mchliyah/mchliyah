@@ -5,7 +5,7 @@
   
  🔭 I’m currently working on **ft_transcendence_42** 🔭
 
- 🌱 I’m currently learning **syber security** 🌱
+ 🌱 I’m currently learning **cyber security** 🌱
 
  💬 Ask me about **C, C++** 💬
 
