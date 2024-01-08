@@ -9,6 +9,11 @@
 
  📫 How to reach me **mohamed.chl1993@gmail.com** 📫
 
+ 
+[<img src='https://github.com/mchliyah/mchliyah/blob/main/srcs/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/mohammed-chliyah-b87054265)
+[<img src='https://github.com/mchliyah/mchliyah/blob/main/srcs/twitter.png' alt='twitter' height='50'>](https://twitter.com/mahamedch)
+[<img src='https://github.com/mchliyah/mchliyah/blob/main/srcs/instagram.png' alt='instagram' height='50'>](https://www.instagram.com/mohammede_ayad)
+ 
 <br/>
 <br/>
 <div align="center">
@@ -30,10 +35,6 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     </p>
- 
-[<img src='https://github.com/mchliyah/mchliyah/blob/main/srcs/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/mohammed-chliyah-b87054265)
-[<img src='https://github.com/mchliyah/mchliyah/blob/main/srcs/twitter.png' alt='twitter' height='50'>](https://twitter.com/mahamedch)
-[<img src='https://github.com/mchliyah/mchliyah/blob/main/srcs/instagram.png' alt='instagram' height='50'>](https://www.instagram.com/mohammede_ayad)
- 
+
 </div>
 
