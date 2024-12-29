@@ -3,7 +3,7 @@
 
 <div align="center">
   
- 🔭 I’m currently working on **personal website** 🔭
+ 🔭 I’m currently working on **cyber-security** 🔭
 
  🌱 I’m currently learning **python** 🌱
 
